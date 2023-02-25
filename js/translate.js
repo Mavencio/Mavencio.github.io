@@ -203,7 +203,7 @@
     },
     home_desc: {
       pt: "Experimente o maior e mais esperado lançamento do ano, neste inverno!",
-      es: "Experimente el lanzamiento más grande y esperado del año, neste invierno!",
+      es: "Experimente el lanzamiento más grande y esperado del año, este invierno!",
       en: "Experience the largest and most anticipated launch of the year, this Winter!",
       ru: "Испытайте крупнейший и самый ожидаемый запуск года этой Зимой!",
       gr: "Ζήστε το μεγαλύτερο και πιο πολυαναμενόμενο λανσάρισμα της χρονιάς, αυτόν τον Χειμώνα"
