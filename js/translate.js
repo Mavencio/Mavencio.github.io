@@ -16,7 +16,7 @@
 
       var settings = {
           css: "trn",
-          lang: "en" /*,
+          lang: "es" /*,
     t: {"translate": {
         pt: "tradução",
         br: "tradução"}
